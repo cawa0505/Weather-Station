@@ -1,0 +1,1 @@
+sudo ln -s /dev/tty.wch\ ch341\ USB\=\>RS232\ 1410 /dev/tty.wch
